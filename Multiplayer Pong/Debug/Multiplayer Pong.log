@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Multiplayer Pong\Multiplayer Pong\Multiplayer Pong\main.cpp(46,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Multiplayer Pong\Multiplayer Pong\Multiplayer Pong\main.cpp(52,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Multiplayer Pong\Multiplayer Pong\Multiplayer Pong\main.cpp(53,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Multiplayer Pong\Multiplayer Pong\Multiplayer Pong\main.cpp(73,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Multiplayer Pong\Multiplayer Pong\Multiplayer Pong\main.cpp(87,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Multiplayer Pong\Multiplayer Pong\Multiplayer Pong\main.cpp(99,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Multiplayer Pong\Multiplayer Pong\Multiplayer Pong\main.cpp(103,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Multiplayer Pong\Multiplayer Pong\Multiplayer Pong\main.cpp(104,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Multiplayer Pong.vcxproj -> C:\Multiplayer Pong\Multiplayer Pong\Debug\Multiplayer Pong.exe
